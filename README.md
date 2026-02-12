@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, I'm Poorvika 👋  <br><br>• ECE student specializing in IoT, Embedded Systems, Machine Learning, and Data Science.  <br>• Building intelligent IoT and embedded solutions.  <br>• Interested in integrating IoT systems with Machine Learning models.  <br>• Currently learning advanced ML, Data Science, and real-time embedded design.  <br><br>• Reach me out - poorvikarummangud@gmail.com<br>
+# Hi, I'm Poorvika 👋
+<br><br>• ECE student specializing in IoT, Embedded Systems, Machine Learning, and Data Science.  <br>• Building intelligent IoT and embedded solutions.  <br>• Interested in integrating IoT systems with Machine Learning models.  <br>• Currently learning advanced ML, Data Science, and real-time embedded design.  <br><br>• Reach me out - poorvikarummangud@gmail.com<br>
 
 
 ## 🌐 Socials:
